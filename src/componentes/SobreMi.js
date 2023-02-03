@@ -15,16 +15,16 @@ function SobreMi(props) {
       <div className="contenedor-resumen">
 
         <div className="contenedor-resumen-texto" >
-          <h2 className="presentacion-titulo" data-aos="fade-right" data-aos-duration="1000" >Mi nombre es Laureano Neyén Chaves.</h2>
-          <p className="presentacion-texto" data-aos="fade-right" data-aos-duration="1300" >Soy estudiante universitario y me encuentro aprendiendo los frameworks React.js y Djanjo.</p>
-          <nav className="presentacion-redes-sociales" data-aos="fade-right" data-aos-duration="1600" >
+          <h2 className="presentacion-titulo" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="600" >Mi nombre es Laureano Neyén Chaves.</h2>
+          <p className="presentacion-texto" data-aos="fade-right" data-aos-duration="1300" data-aos-offset="350" >Soy estudiante universitario y me encuentro aprendiendo los frameworks React.js y Djanjo.</p>
+          <nav className="presentacion-redes-sociales" data-aos="fade-right" data-aos-duration="1600" data-aos-offset="200" >
             <a  className="github" href="">Github <FontAwesomeIcon icon={faGithub} /></a>
             <a href="">LinkedIn <FontAwesomeIcon icon={faLinkedin}/></a>
             <a href="">Instagram <FontAwesomeIcon icon={faInstagram} /></a>
           </nav>
         </div>
 
-        <div data-aos="fade-left" data-aos-duration="300" >
+        <div data-aos="fade-left" data-aos-duration="900" data-aos-offset="600">
           <img src={require(`../Imagenes/perfil-${props.imagen}.png`)} className="imagen-perfil"/>
         </div>
 

@@ -5,8 +5,9 @@
     padding: 1rem;
     display: flex;
     align-items: center;
-    display: flex;
     justify-content: space-between;
+    width: 80%;
+    max-width: 1920px;
 }
 
 .header-home{
@@ -19,7 +20,37 @@
     flex-direction: row;
     gap:3rem;
     font-size: 1.111rem;
-   
-
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    background: radial-gradient(35% 100% at 50% 100%, #1E2B2D 0%, #141117 100%);
+    z-index: 1;
+    width: 100%
+}
+
+
+@media (max-width: 450px) {
+
+    .sticky {
+        position: fixed;
+        top: 0;
+        background: radial-gradient(35% 100% at 50% 100%, #1E2B2D 0%, #141117 100%);
+        z-index: 1;
+        padding: 1.5rem 0;
+        width: 40%
+    }
+    
+    .contenedor-header{
+        width: 90%;
+        font-size: 1.1rem;
+        margin: 1rem  auto;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 450px;
+    }
+    
+    }
 
