@@ -1,0 +1,26 @@
+.contenedor-textArea{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+}
+
+.label-textArea{
+    font-size: 0.74rem;
+    
+}
+
+.mensaje{
+    outline: none;
+    width: 34.62rem;
+    height: 10rem;
+    font-size: 1rem;
+    padding: 1rem 1rem;
+    margin-bottom: 2.5rem;
+    color:black;
+    resize:none;
+    
+}
+
+.mensaje::-webkit-scrollbar-track {
+    background: white;
+  }

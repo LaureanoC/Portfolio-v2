@@ -1,0 +1,16 @@
+.contenedor-academico{
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-imagen-academico{
+    text-align: center;
+}
+.academico-imagen{
+    width: 15rem;
+    
+}
+
+.academico-subtitulo{
+    font-weight: bold;
+}

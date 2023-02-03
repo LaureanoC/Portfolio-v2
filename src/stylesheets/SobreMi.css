@@ -1,0 +1,50 @@
+.contenedor-presentacion{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+.contenedor-resumen{
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentacion-titulo{
+    font-size: 3.7rem;
+    font-weight: bold;
+    margin-bottom: 4rem;
+}
+
+.presentacion-texto{
+    font-size: 1.8rem;
+    margin-bottom: 1.7rem;
+}
+
+
+
+.imagen-perfil{
+    width: 27.7rem;
+    border-radius: 500px;
+}
+
+.contenedor-sobre-mi{
+
+}
+
+.sobre-mi-titulo{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.sobre-mi-texto{
+    margin-bottom: 1.5rem;
+
+}
+
+.presentacion-redes-sociales{
+    display: flex;
+    gap:1rem;
+    margin-bottom: 4rem;
+}
+
+

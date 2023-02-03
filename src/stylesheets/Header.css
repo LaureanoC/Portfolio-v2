@@ -1,0 +1,25 @@
+.contenedor-header {
+    
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-home{
+    font-size: 1.111rem;
+}
+
+.contenedor-links {
+
+    display: flex;
+    flex-direction: row;
+    gap:3rem;
+    font-size: 1.111rem;
+   
+
+}
+

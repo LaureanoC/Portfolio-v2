@@ -1,0 +1,44 @@
+.contenedor-input{
+    display: flex;
+    flex-direction: column;
+}
+
+.label-input{
+    font-size: 0.74rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.input{
+    all:unset;
+    width: 34.6rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    padding: 0 1rem;
+    color:black;
+    background-color: white;
+    
+}
+
+.input-error{
+    color: #AC2627;
+    margin-bottom: 1rem;
+}
+
+.icon-error path{
+    translate:465rem -50rem;
+    color: #AC2627;
+}
+
+.error{
+    border: #AC2627 1px solid;
+}
+
+.icon-correct path{
+    translate:465rem -50rem;
+    color: #1E3234;
+}
+
+.hide{
+    visibility: hidden;
+}

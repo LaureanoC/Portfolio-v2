@@ -1,0 +1,23 @@
+.contenedor-conocimiento{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.conocimiento-imagen{
+    width: 9rem;
+    transition: 1s;
+}
+
+.conocimiento-texto {
+    font-weight: bold;
+    font-size: 0.88rem;
+    margin-top: 2.5rem;
+}
+
+.conocimiento-imagen:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
