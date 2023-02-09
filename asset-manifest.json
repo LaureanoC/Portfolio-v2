@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-v2/static/css/main.ab7c1b9f.css",
+    "main.js": "/Portfolio-v2/static/js/main.c041b938.js",
+    "static/media/perfil-1.png": "/Portfolio-v2/static/media/perfil-1.8d0125e82b5fac2e9a59.png",
+    "static/media/proyecto-tryhardzone.png": "/Portfolio-v2/static/media/proyecto-tryhardzone.9406f2655fb52ce2f0c9.png",
+    "static/media/academico-codo.png": "/Portfolio-v2/static/media/academico-codo.2e93a655ef4b6b18d431.png",
+    "static/media/conocimiento-figma.png": "/Portfolio-v2/static/media/conocimiento-figma.9dd18f14e8160e874803.png",
+    "static/media/conocimiento-mysql.png": "/Portfolio-v2/static/media/conocimiento-mysql.b1485fa7ef3e370520e4.png",
+    "static/media/academico-one.png": "/Portfolio-v2/static/media/academico-one.0b71abe6a44988b845a4.png",
+    "static/media/conocimiento-react.png": "/Portfolio-v2/static/media/conocimiento-react.5d5c07aca6f89a9e5eff.png",
+    "static/media/conocimiento-python.png": "/Portfolio-v2/static/media/conocimiento-python.3f6327176006d8857f2e.png",
+    "static/media/conocimiento-html.png": "/Portfolio-v2/static/media/conocimiento-html.2839e79daacd36356ade.png",
+    "static/media/conocimiento-javascript.png": "/Portfolio-v2/static/media/conocimiento-javascript.14e89d5fcae7f14769d9.png",
+    "static/media/conocimiento-css.png": "/Portfolio-v2/static/media/conocimiento-css.cf78045fb7efcf79f295.png",
+    "static/media/contacto.png": "/Portfolio-v2/static/media/contacto.5daf00af0f37fb90235b.png",
+    "static/media/proyecto-encriptador.png": "/Portfolio-v2/static/media/proyecto-encriptador.dedcdb22afb1f97679f2.png",
+    "static/media/academico-utn.png": "/Portfolio-v2/static/media/academico-utn.c16970bb8262bdedb638.png",
+    "static/media/proyecto-calculadora.png": "/Portfolio-v2/static/media/proyecto-calculadora.a91c30faff782d30f844.png",
+    "static/media/proyecto-ahorcado.png": "/Portfolio-v2/static/media/proyecto-ahorcado.8d28df66568b065d16bf.png",
+    "index.html": "/Portfolio-v2/index.html",
+    "main.ab7c1b9f.css.map": "/Portfolio-v2/static/css/main.ab7c1b9f.css.map",
+    "main.c041b938.js.map": "/Portfolio-v2/static/js/main.c041b938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7c1b9f.css",
+    "static/js/main.c041b938.js"
+  ]
+}
