@@ -49,7 +49,7 @@ function App() {
             <section id='academia'>
             
               <div className='contenedor-tipo'>
-                <h2 className='subtitulo' data-aos="zoom-in" data-aos-duration='1000' data-aos-offset="600">Mis conocimientos <FontAwesomeIcon icon={faCode}/></h2>
+                <h2 className='subtitulo' data-aos="zoom-in" data-aos-duration='1000' data-aos-offset="300">Mis conocimientos <FontAwesomeIcon icon={faCode}/></h2>
                 
                 <div className='contenedor-conocimientos'>
                 
